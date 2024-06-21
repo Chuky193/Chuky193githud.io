@@ -1,0 +1,71 @@
+body{
+    text-align: center;
+    background-color: black;
+    margin: 0px;
+}
+
+header{
+    h1{
+        font-family: sans-serif;
+        color: white;
+        font-weight: 15px;
+    }
+    display: flex;
+    justify-content: center;
+    background-color: rgb(0, 5, 22);
+    align-items: center;
+    padding: 10px;
+
+}
+
+h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 70px;
+    margin: 50px;
+}
+
+
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(158, 158, 158);
+    background-color: rgba(22, 0, 21, 0.712);
+    margin: 10px;
+}
+
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-color: rgba(128, 128, 128, 0.466);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px;
+    margin: 0px;
+}
+
+h7{
+    text-align: right;
+    color: rgb(171, 217, 255);
+    font-size: 30px;
+    margin: 0px;
+}
+
+h8{
+    margin: 0px;
+    text-align: left;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+a{
+    table-layout: fixed;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    text-align: center;
+    margin: 100px;
+    background-color: rgb(196, 224, 255);
+}
